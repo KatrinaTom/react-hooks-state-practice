@@ -12,3 +12,9 @@ To use this project:
 You should see something like this:
 
 ![Recent Projects app](./recent-projects.png)
+
+## Completed Exercise
+
+![Completed Exercise](/completed.png)
+
+Image displays a new entry to the project
